@@ -1,0 +1,49 @@
+.Title {
+	color: royalblue;
+	text-align: center;
+}
+
+div.content2 {background-color: lightblue;
+ 	 margin: 20px 0 20px 0;
+ 	 padding: 20px;
+ 	 border-style: solid;
+ 	 border-radius: 10px; 
+ 	 height: 275px;
+ 	 width: 975px;
+ 	 float: right;
+ 	 border-color: blue;
+ 	 }
+
+img {
+	border: solid;
+	border-radius: 10px;
+	float: right;
+	margin-left: 1000px;
+	border-color: blue;
+}
+
+body {
+	background-image: repeating-radial-gradient(purple, black);
+}
+
+div.content1 {background-color: lightblue;
+ 	 margin: 20px 0 20px 0;
+ 	 padding: 20px;
+ 	 border-style: solid;
+ 	 border-radius: 10px; 
+ 	 border-color: blue;
+ 	 height: 275px;
+ 	 width: 975px;
+ 	 float: right;
+ 	}
+
+aside {
+	float: left;
+	border: solid;
+	margin-top: 20px;
+	border-radius: 10px;
+	border-color: blue;
+	background-color: lightblue;
+	padding-bottom: 455px;
+	padding-right: 50px;
+}
