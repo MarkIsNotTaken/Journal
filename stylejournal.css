@@ -4,7 +4,7 @@
 	border-bottom: solid;
 }
 
-div.content1 {
+div.content {
 	 background-color: lightblue;
  	 margin: 20px 0 20px 0;
  	 padding: 20px;
@@ -15,30 +15,6 @@ div.content1 {
  	 width: 975px;
  	 float: right;
  	}
-
-div.content2 {
-	 background-color: lightblue;
- 	 margin: 20px 0 20px 0;
- 	 padding: 20px;
- 	 border-style: solid;
- 	 border-radius: 10px; 
- 	 height: 275px;
- 	 width: 975px;
- 	 float: right;
- 	 border-color: blue;
- 	 }
-
-div.content3 {
-	 background-color: lightblue;
- 	 margin: 20px 0 20px 0;
- 	 padding: 20px;
- 	 border-style: solid;
- 	 border-radius: 10px; 
- 	 height: 275px;
- 	 width: 975px;
- 	 float: right;
- 	 border-color: blue;
- 	 }
 
 img {
 	border: solid;
