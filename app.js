@@ -73,7 +73,7 @@ var div = document.createElement("div");
 var h1 = document.createElement("h1");
 var p = document.createElement("p");
 var targetH1 = document.getElementsByTagName("h1");
-var argetP = document.getElementsByTagName("p");
+var targetP = document.getElementsByTagName("p");
 var journalEntries = [firstEntry,
 					 secondEntry, 
 					 thirdEntry, 
